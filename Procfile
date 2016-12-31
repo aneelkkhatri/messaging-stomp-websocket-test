@@ -1,1 +1,1 @@
-web: java -cp target/classes;target/alternateLocation/* hello.Application
+web: java -jar target/websocket-test-1.0-SNAPSHOT.jar
